@@ -1,10 +1,8 @@
-/**
- * Created by aarnavjindal on 07/04/20.
- */
+
 
 export { ChatHandler, chat_names}
 
-const chat_names = ["Prateek Bhaiya", "Arnav Bhaiya", "Munna Bhaiya", "Aarnav Jindal", "Shriya Chhabra", "Akul Jindal", "Abhinav Duggal"];
+const chat_names = ["Uttam", "Rahul", "Manan", "Parth", "Gahana", "Nihal", "Sachika"];
 const chat_names_length = chat_names.length;
 const chat_msg = ["Why didn't he come and talk to me himse...",
     "Perfect, I am really glad to hear that!...",
